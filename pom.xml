@@ -112,6 +112,15 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
+		
+		<!--  Dependencias do grupo Comunicatec -->
+		
+		 <dependency>
+    		<groupId>org.directwebremoting</groupId>
+    		<artifactId>dwr</artifactId>
+    		<version>3.0.1-RELEASE</version>
+  		</dependency>
+		
 	</dependencies>
 
 	<build>
